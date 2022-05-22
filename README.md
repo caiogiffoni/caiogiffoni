@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   <div align="center">
--  🔭 Atualmente procurando por empregos de FrontEnd Jr <br>
--  📫 Como me encontrar: <a href="https://www.linkedin.com/in/caiocgfg" target="_blank">aqui</a> 
+-  🔭 I'm currently looking for a job in a FrontEnd starting position  <br>
+-  📫 How to reach me: <a href="https://www.linkedin.com/in/caiocgfg" target="_blank">aqui</a> 
+-  📚 Currently studying: Backend
+  
+  
 </div>
 
 ###
