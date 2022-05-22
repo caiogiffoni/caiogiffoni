@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
   <div align="center">
 -  🔭 I'm currently looking for a job in a FrontEnd starting position  <br>
--  📫 How to reach me: <a href="https://www.linkedin.com/in/caiocgfg" target="_blank">aqui</a> 
+-  📫 How to reach me: <a href="https://www.linkedin.com/in/caiocgfg" target="_blank">aqui</a> <br>
 -  📚 Currently studying: Backend
   
   
