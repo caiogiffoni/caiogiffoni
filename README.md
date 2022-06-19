@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=your-github-caiogiffoni)
 -->
 
-<h1 align="left">Hi 👋! My name is Caio and I'm a Frontend Dev, from Brasil.</h1>
+<h1 align="left">Hi 👋! My name is Caio and I'm a Frontend Dev, from Brazil.</h1>
 
 ###
 
