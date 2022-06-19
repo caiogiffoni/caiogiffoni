@@ -87,6 +87,8 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/caiogiffoni/caiogiffoni/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://github.com/caiogiffoni/caiogiffoni/blob/output/snake.svg" alt="Snake animation" />
+
+![snake gif](https://github.com/caiogiffoni/caiogiffoni/blob/output/github-contribution-grid-snake.svg)
 
 ###
