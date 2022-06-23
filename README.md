@@ -63,7 +63,16 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/caiocgfg/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+    <a href="https://portfolio-caio-giffoni.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio%20Caio%20Giffoni-48BB78?&style=flat-square" height="35" alt="portfolio"  />
+  </a>
 </div>
+
+
+
+
+
+
 
 ###
 
