@@ -26,8 +26,6 @@ class Caio:
         self.background = "Civil Engineer turned Developer 🏗️ → 💻"
         self.fun_fact   = "I once managed R$40M construction budgets — now I automate them"
 
-    def current_mission(self):
-        return "Replacing 60-day backlogs with real-time AI workflows"
 ```
 
 ---
