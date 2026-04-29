@@ -1,133 +1,80 @@
-<h1 align="center">
-  Hey there! I'm Caio 👋
-</h1>
+# hey, I'm Caio 👋
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=BD93F9&center=true&vCenter=true&width=600&lines=Software+Developer+from+Brazil+%F0%9F%87%A7%F0%9F%87%B7;Building+AI+agents+for+healthcare+%F0%9F%A4%96;Turning+manual+chaos+into+automated+calm+%E2%9A%A1" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://c.tenor.com/y2JXkY1pXkwAAAAS/cat-computer.gif" width="320" alt="cat coding gif" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=BD93F9&center=true&vCenter=true&width=600&lines=Software+dev+from+Brazil+%F0%9F%87%A7%F0%9F%87%B7;Currently+building+AI+agents+for+healthcare;I+like+making+slow+manual+work+disappear+%E2%9A%A1)](https://git.io/typing-svg)
 
 ---
 
-### 🧙‍♂️ About Me
+### the short version
 
 ```python
 class Caio:
-    def __init__(self):
-        self.location   = "São Paulo, Brazil 🌴"
-        self.role       = "Software Developer @ Thoughtful AI"
-        self.experience = "4+ years shipping software"
-        self.focus      = ["AI agents", "RPA", "Full-stack", "Healthcare RCM"]
-        self.background = "Civil Engineer turned Developer 🏗️ → 💻"
-        self.fun_fact   = "I once managed R$40M construction budgets — now I automate them"
-
+    location   = "São Paulo, Brazil 🌴 (also EU citizen 🇪🇺)"
+    job        = "Software Developer @ Thoughtful AI"
+    background = "Civil Engineer who switched to software in 2021. Best decision I've made"
+    fun_fact   = "I used to manage R$40M construction budgets. Now I automate them."
 ```
 
 ---
 
-### 💼 What I'm Up To
+### what I actually do
 
-🤖 **Building AI Agents at [Thoughtful AI](https://www.thoughtful.ai/)** — designing autonomous agents that handle the grunt work of healthcare revenue cycle management. My **Payment Posting agent** turned a 60-day backlog into near real-time, and my **Appeal Submission agent** cut submission time by 4 months.
+I work at **[Thoughtful AI](https://www.thoughtful.ai/)** building autonomous agents for healthcare billing — the kind of work that used to take a team of people a full day, and now runs on its own at 3am.
 
-🌎 Collaborating with engineers across the globe, mentoring new hires, and keeping CI/CD pipelines humming.
+A couple things I'm proud of:
 
----
-
-### 🛠️ Tech Stack
-
-<p align="center">
-
-  <strong>🐍 Daily Drivers</strong><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="python" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" alt="flask" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" alt="vue" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="postgresql" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" alt="aws" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="docker" />
-
-  <br/><br/>
-
-  <strong>⚛️ Also in the Toolbox</strong><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40" alt="typescript" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="react" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="nodejs" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" alt="django" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" alt="graphql" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" alt="kubernetes" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40" alt="prisma" />
-
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS%20Certified-Developer%20Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="aws dev cert" />
-  <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="aws cp cert" />
-</p>
+- A **Payment Posting agent** that ate a 60-day backlog and reduced it to near real-time. Accelerated revenue collection by ~2 months.
+- An **Appeal Submission agent** that cut submission time by 4 months and started flagging payers who were dragging their feet — turning a reactive process into a data-driven one.
 
 ---
 
-### 🌱 Currently Learning
+### where I'm coming from
 
-- 🧠 Going deeper on **AI agent architectures** and orchestration patterns
-- 🏗️ Sharpening **system design** for high-throughput automation
-- ⚓ Leveling up **Kubernetes** beyond the basics
-- 🧪 Building stronger **testing strategies** for non-deterministic AI workflows
+I spent my first career managing construction sites: coordinating crews, fighting deadlines, watching budgets, getting things built. Made the jump into software in 2021, then taught there for a year (honestly the best way to learn anything is to teach it), then shipped B2B automation at Weduu, then ended up here.
 
-> _"The more you learn, the more you realize how much you don't know."_ 🚀
+The civil engineering background still shows up in how I work. I care a lot about details, deadlines, and not breaking the things that matter.
 
 ---
 
-### 🚀 Featured Projects - DEPRECATED
+### what I'm looking for
 
-| Project | Description | Tech |
-| :--- | :--- | :--- |
-| ✅ [**Do It App**](https://github.com/caiogiffoni/do-it-caiogiffoni-app) | Productivity app for tracking tasks and staying focused | React, JavaScript |
-| 🎉 [**Hosteando**](https://github.com/CapstoneHostEvents/Hosteando) | Event hosting platform — full-stack capstone project | TypeScript, React |
-| 👤 [**CRUD User**](https://github.com/caiogiffoni/crud-user-caiogiffoni) | Clean user management example with TypeScript | TypeScript |
-| ⚓ [**Anchor TCM**](https://github.com/matheusprado1/anchor-tcm-m5) | Backend capstone — Module 5 final project | Python, Django |
-| 🎓 [**Capstone M3**](https://github.com/devadrianoabner/capstone-m3---grupo-5) | Group capstone from Kenzie Academy Module 3 | JavaScript |
+🌍 Fully remote roles, open to **LATAM / US / EU**. EU citizen, so no sponsorship needed.
 
-> 💡 _Most of my recent work lives in private repos at Thoughtful AI — feel free to ask me about it!_
+🤖 Especially interested in **AI agents, automation, backend, and full-stack** work where the system actually saves someone real hours.
 
 ---
 
-### 📊 GitHub Stats
+### what someone I worked with said
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=caiogiffoni" alt="Caio's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&username=caiogiffoni" alt="Top languages" />
-</p>
+> *"Caio led development across multiple AI agent workflows, delivering meaningful automation in a space that typically relies heavily on manual effort. He built strong trust with stakeholders by quickly addressing questions, providing clear updates, and maintaining momentum even when challenges arose."*
+>
+> **— Craig Gifford**, Product Leader, worked with me at Thoughtful AI
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=caiogiffoni&theme=dracula&hide_border=false" alt="GitHub streak" />
-</p>
+A few more on the [portfolio →](https://caiogiffoni.com.br/#recommendations)
 
 ---
 
-### 🐍 Watch the Snake Eat My Contributions
+### the stack I reach for
 
-<p align="center">
-  <img src="https://github.com/caiogiffoni/caiogiffoni/raw/output/snake.svg" alt="snake animation" />
-</p>
+**Most days:** Python, Flask, PostgreSQL, AWS, Docker, RPA / Robocorp
+
+**Also comfortable with:** Vue, React, TypeScript, Node, Django, GraphQL, Kubernetes, GCP
+
+![AWS Certified Developer Associate](https://img.shields.io/badge/AWS%20Certified-Developer%20Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
 ---
 
-### 🤝 Let's Connect
+### stats, for the curious
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/caiocgfg/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="linkedin" />
-  </a>
-  <a href="https://caiogiffoni.com.br/">
-    <img src="https://img.shields.io/badge/-Personal%20Site-BD93F9?&style=for-the-badge&logo=globe&logoColor=white" alt="personal site" />
-  </a>
-  <a href="mailto:caio_cgf@hotmail.com">
-    <img src="https://img.shields.io/badge/-Email-EA4335?&style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
-  </a>
-</p>
+[![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=caiogiffoni)](https://github.com/caiogiffoni)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&username=caiogiffoni)](https://github.com/caiogiffoni)
 
-<p align="center"><i>⭐ From <a href="https://github.com/caiogiffoni">caiogiffoni</a> — thanks for stopping by!</i></p>
+---
+
+### say hi
+
+[![linkedin](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/caiocgfg/)
+[![personal site](https://img.shields.io/badge/-caiogiffoni.com.br-BD93F9?&style=for-the-badge&logo=globe&logoColor=white)](https://caiogiffoni.com.br/)
+[![email](https://img.shields.io/badge/-Email-EA4335?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:caio_cgf@hotmail.com)
+
+Thanks for stopping by 🙌
