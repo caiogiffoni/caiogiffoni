@@ -1,6 +1,6 @@
 # hey, I'm Caio 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=BD93F9&center=true&vCenter=true&width=600&lines=Software+dev+from+Brazil+%F0%9F%87%A7%F0%9F%87%B7;Currently+building+AI+agents+for+healthcare;I+like+making+slow+manual+work+disappear+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=BD93F9&center=true&vCenter=true&width=600&lines=Software+dev+from+Brazil+%F0%9F%87%A7%F0%9F%87%B7;Building+LLM-powered+AI+agents+%E2%9A%A1;I+like+making+slow+manual+work+disappear)](https://git.io/typing-svg)
 
 ---
 
@@ -8,56 +8,69 @@
 
 ```python
 class Caio:
-    location   = "São Paulo, Brazil 🌴 (also EU citizen 🇪🇺)"
-    job        = "Software Developer @ Thoughtful AI"
-    background = "Civil Engineer who switched to software in 2021. Best decision I've made"
-    fun_fact   = "I used to manage R$40M construction budgets. Now I automate them."
+    location   = "São Paulo, Brazil 🌴  (also EU citizen 🇪🇺)"
+    status     = "Open to work · Remote · LATAM / US / EU · No sponsorship needed"
+    background = "Civil Engineer who switched to software in 2021. Best decision I've made."
+    focus      = "AI agents, full-stack engineering, and workflow automation"
 ```
 
 ---
 
 ### what I actually do
 
-I work at **[Thoughtful AI](https://www.thoughtful.ai/)** building autonomous agents for healthcare billing — the kind of work that used to take a team of people a full day, and now runs on its own at 3am.
+I spent the last 2 years at **[Thoughtful AI](https://www.thoughtful.ai/)** building autonomous AI agents for healthcare. The kind of work that used to take a team of people a full day, and now runs on its own at 3am.
 
 A couple things I'm proud of:
 
-- A **Payment Posting agent** that ate a 60-day backlog and reduced it to near real-time. Accelerated revenue collection by ~2 months.
-- An **Appeal Submission agent** that cut submission time by 4 months and started flagging payers who were dragging their feet — turning a reactive process into a data-driven one.
-
----
-
-### where I'm coming from
-
-I spent my first career managing construction sites: coordinating crews, fighting deadlines, watching budgets, getting things built. Made the jump into software in 2021, then taught there for a year (honestly the best way to learn anything is to teach it), then shipped B2B automation at Weduu, then ended up here.
-
-The civil engineering background still shows up in how I work. I care a lot about details, deadlines, and not breaking the things that matter.
-
----
-
-### what I'm looking for
-
-🌍 Fully remote roles, open to **LATAM / US / EU**. EU citizen, so no sponsorship needed.
-
-🤖 Especially interested in **AI agents, automation, backend, and full-stack** work where the system actually saves someone real hours.
+- A **Payment Posting agent** (Python, LLM APIs, RPA) that ate a 60-day billing backlog and reduced it to near real-time, accelerating revenue collection by ~2 months.
+- An **Appeal Submission agent** that cut submission time by 4 months and started flagging slow-paying payers, turning a reactive process into a data-driven one.
 
 ---
 
 ### what someone I worked with said
 
-> *"Caio led development across multiple AI agent workflows, delivering meaningful automation in a space that typically relies heavily on manual effort. He built strong trust with stakeholders by quickly addressing questions, providing clear updates, and maintaining momentum even when challenges arose."*
+> _"Caio led development across multiple AI agent workflows, delivering meaningful automation in a space that typically relies heavily on manual effort. He built strong trust with stakeholders by quickly addressing questions, providing clear updates, and maintaining momentum even when challenges arose."_
 >
-> **— Craig Gifford**, Product Leader, worked with me at Thoughtful AI
+> **— Craig Gifford**, Product Leader @ Thoughtful AI
 
 A few more on the [portfolio →](https://caiogiffoni.com.br/#recommendations)
 
 ---
 
+### what I've built
+
+| Project                                                                         | Stack                                 | What it does                                                                  |
+| ------------------------------------------------------------------------------- | ------------------------------------- | ----------------------------------------------------------------------------- |
+| [ELD Trip Planner](https://github.com/caiogiffoni/truck-trip-planner-back)      | Django, DRF, Pydantic, Docker, pytest | REST API calculating HOS-compliant schedules for truck drivers                |
+| [Pomodoro Timer Desktop](https://github.com/caiogiffoni/pomodoro-timer-desktop) | Python, PyQt6, SQLite                 | Full-featured Linux productivity app with stats dashboard and streak tracking |
+
+---
+
+### where I'm coming from
+
+First career: managing construction sites (R$40M budgets, 15 simultaneous projects). Switched to software in 2021, taught web dev for a year, shipped B2B automation at Weduu, then built healthcare AI agents at Thoughtful AI. The civil engineering background still shows that I care about details, deadlines, and not breaking the things that matter.
+
+---
+
+### what I'm looking for
+
+🌍 Fully remote · **LATAM / US / EU** · EU citizen, no sponsorship needed
+
+🤖 **AI agents, automation, backend, full-stack** — work where the system saves someone real hours
+
+---
+
 ### the stack I reach for
 
-**Most days:** Python, Flask, PostgreSQL, AWS, Docker, RPA / Robocorp
+**AI & Automation:** Python, LLM APIs (OpenAI, Claude, Gemini), Prompt Engineering, RPA, Robocorp
 
-**Also comfortable with:** Vue, React, TypeScript, Node, Django, GraphQL, Kubernetes, GCP
+**Backend:** Flask, Django, Node.js, TypeScript, REST APIs
+
+**Frontend:** Vue, React
+
+**Cloud & DevOps:** AWS, GCP, Docker, Kubernetes, GitHub Actions
+
+**Databases:** PostgreSQL, GraphQL
 
 ![AWS Certified Developer Associate](https://img.shields.io/badge/AWS%20Certified-Developer%20Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
