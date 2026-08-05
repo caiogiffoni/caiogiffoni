@@ -39,9 +39,10 @@ A few more on the [portfolio →](https://caiogiffoni.com.br/#recommendations)
 
 ### what I've built
 
-| Project                                                                         | Stack                                 | What it does                                                                  |
-| ------------------------------------------------------------------------------- | ------------------------------------- | ----------------------------------------------------------------------------- |
-| [ELD Trip Planner](https://github.com/caiogiffoni/truck-trip-planner-back)      | Django, DRF, Pydantic, Docker, pytest | REST API calculating HOS-compliant schedules for truck drivers                |
+| Project                                                                         | Stack                                       | What it does                                                                                          |
+| ------------------------------------------------------------------------------- | ------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| [jidoka](https://github.com/caiogiffoni/jidoka)                                 | FastAPI, LangGraph, Next.js, Postgres, pytest | Kanban board driven by an LLM agent with human-in-the-loop approval — eval-tested against real LLMs in CI |
+| [ELD Trip Planner](https://github.com/caiogiffoni/truck-trip-planner-back)      | Django, DRF, Pydantic, Docker, pytest       | REST API calculating HOS-compliant schedules for truck drivers                                        |
 | [Pomodoro Timer Desktop](https://github.com/caiogiffoni/pomodoro-timer-desktop) | Python, PyQt6, SQLite                 | Full-featured Linux productivity app with stats dashboard and streak tracking |
 
 ---
